@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9a3fff6762889b24820f3fba55273cc6",
+    "revision": "9ca49aaf6f6c342dabca78052ebdafb3",
     "url": "/WaveScroll/index.html"
   },
   {
-    "revision": "1d43c3e786c65fb12528",
-    "url": "/WaveScroll/static/css/main.78407e8c.chunk.css"
+    "revision": "273f9c87b223c40f2d90",
+    "url": "/WaveScroll/static/css/main.4473a756.chunk.css"
   },
   {
     "revision": "5e7d49f7d9a62273e013",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/WaveScroll/static/js/2.4fb9dbba.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1d43c3e786c65fb12528",
-    "url": "/WaveScroll/static/js/main.0b9d0bfd.chunk.js"
+    "revision": "273f9c87b223c40f2d90",
+    "url": "/WaveScroll/static/js/main.771a8d6a.chunk.js"
   },
   {
     "revision": "dd5dc1db1cd78bbd8b06",
@@ -46,6 +46,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "18e3f7f9825c9e9263c18b31d802fcee",
     "url": "/WaveScroll/static/media/GreatWaveLayer4.18e3f7f9.png"
+  },
+  {
+    "revision": "2faa5012c4a3726604444a66bd15406b",
+    "url": "/WaveScroll/static/media/GreatWaveMobile.2faa5012.png"
   },
   {
     "revision": "1ce5d9d292ea9a3ccd0a9014b125cace",
