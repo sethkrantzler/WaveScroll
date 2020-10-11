@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9ca49aaf6f6c342dabca78052ebdafb3",
+    "revision": "028c5b9165fd6cfe92a1f3eb86be8bb9",
     "url": "/WaveScroll/index.html"
   },
   {
-    "revision": "273f9c87b223c40f2d90",
-    "url": "/WaveScroll/static/css/main.4473a756.chunk.css"
+    "revision": "989a40ba486719c57c9c",
+    "url": "/WaveScroll/static/css/main.8fbafa1f.chunk.css"
   },
   {
     "revision": "5e7d49f7d9a62273e013",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/WaveScroll/static/js/2.4fb9dbba.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "273f9c87b223c40f2d90",
+    "revision": "989a40ba486719c57c9c",
     "url": "/WaveScroll/static/js/main.771a8d6a.chunk.js"
   },
   {
@@ -26,6 +26,26 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3bef329f1e60c2e10cad48ce87aecfe5",
     "url": "/WaveScroll/static/media/Documents - Shortcut.3bef329f.lnk"
+  },
+  {
+    "revision": "1593fdf5cc681bdbf6117b1fe0ac3f3a",
+    "url": "/WaveScroll/static/media/Fujimaru-Regular.1593fdf5.woff2"
+  },
+  {
+    "revision": "4c1989a4405991c6d9032e11de7e7b05",
+    "url": "/WaveScroll/static/media/Fujimaru-Regular.4c1989a4.svg"
+  },
+  {
+    "revision": "b1b27fef81e698bb3be09d2969c482cd",
+    "url": "/WaveScroll/static/media/Fujimaru-Regular.b1b27fef.eot"
+  },
+  {
+    "revision": "f2b1d520509e7ae4b858ba3eae13e2e3",
+    "url": "/WaveScroll/static/media/Fujimaru-Regular.f2b1d520.woff"
+  },
+  {
+    "revision": "fbb42e2b7043a42047242994ed7c2a11",
+    "url": "/WaveScroll/static/media/Fujimaru-Regular.fbb42e2b.ttf"
   },
   {
     "revision": "e264fd98363d81cc1925fe62001a8cde",
