@@ -3,13 +3,27 @@ body, html {
     background: #101c54;
 }
 
+@font-face {
+    font-family: 'Japestyle';
+    src: url('../styles/font/JapestylePlain.eot');
+    src: url('../styles/font/JapestylePlain.eot?#iefix') format('embedded-opentype'),
+        url('../styles/font/JapestylePlain.woff2') format('woff2'),
+        url('../styles/font/JapestylePlain.woff') format('woff'),
+        url('../styles/font/JapestylePlain.ttf') format('truetype'),
+        url('../styles/font/JapestylePlain.svg#JapestylePlain') format('svg');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
 .content{
     position: relative;
     padding: 0 15%;
     margin-top: 55vw;
     z-index: 50;
     background: #101c54;
-    color: white;
+    color: #e7cba2;
+    font-family: Japestyle;
 }
 
 .parallax {
@@ -74,11 +88,22 @@ body, html {
 
     p {
         font-size: 2vw;
+        color: #f5eedb;
     }
+
+    @media only screen and (max-width: 1080px) {
+        p {
+            font-size: 3.5vw;
+        }
+      }
     .gifHolder{
         padding: 3vw;
         img{
           width: 100%;  
         }
+    }
+
+    .descriptionHolder{
+        text-align: left; 
     }
 }

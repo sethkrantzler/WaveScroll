@@ -21,7 +21,9 @@ export default class ProjectCard extends React.Component<any, IProjectCardProps>
                 <div className="gifHolder">
                     <img src={require(`../images/${this.props.imgName}`)} alt={this.props.altText}/>
                 </div>
-                <p>{this.props.description}</p>
+                <div className="descriptionHolder">
+                    <p>{this.props.description}</p>
+                </div>
             </div>  
 
         )

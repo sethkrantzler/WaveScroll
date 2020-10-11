@@ -1,5 +1,5 @@
 import React from 'react';
-import ProjectStrings from '../resources/projectStrings';
+import ProjectStrings from '../resources/ProjectStrings';
 import '../styles/App.scss';
 import ProjectCard from './ProjectCard';
 

@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Japestyle';
+    src: url('JapestylePlain.eot');
+    src: url('JapestylePlain.eot?#iefix') format('embedded-opentype'),
+        url('JapestylePlain.woff2') format('woff2'),
+        url('JapestylePlain.woff') format('woff'),
+        url('JapestylePlain.ttf') format('truetype'),
+        url('JapestylePlain.svg#JapestylePlain') format('svg');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
