@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "028c5b9165fd6cfe92a1f3eb86be8bb9",
+    "revision": "5b51a60fdd5ee30925fa8b1812786738",
     "url": "/WaveScroll/index.html"
   },
   {
-    "revision": "989a40ba486719c57c9c",
-    "url": "/WaveScroll/static/css/main.8fbafa1f.chunk.css"
+    "revision": "683b33f9c6571ffcbec8",
+    "url": "/WaveScroll/static/css/main.bd5b785b.chunk.css"
   },
   {
     "revision": "5e7d49f7d9a62273e013",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/WaveScroll/static/js/2.4fb9dbba.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "989a40ba486719c57c9c",
-    "url": "/WaveScroll/static/js/main.771a8d6a.chunk.js"
+    "revision": "683b33f9c6571ffcbec8",
+    "url": "/WaveScroll/static/js/main.6e7dcbff.chunk.js"
   },
   {
     "revision": "dd5dc1db1cd78bbd8b06",
@@ -60,16 +60,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/WaveScroll/static/media/GreatWaveLayer2.24fffb8d.png"
   },
   {
-    "revision": "c72a5495a5431206155485520b758eea",
-    "url": "/WaveScroll/static/media/GreatWaveLayer3.c72a5495.png"
+    "revision": "8acef38bfefb9f086ecffb02c600e1e6",
+    "url": "/WaveScroll/static/media/GreatWaveLayer3.8acef38b.png"
   },
   {
     "revision": "18e3f7f9825c9e9263c18b31d802fcee",
     "url": "/WaveScroll/static/media/GreatWaveLayer4.18e3f7f9.png"
   },
   {
-    "revision": "2faa5012c4a3726604444a66bd15406b",
-    "url": "/WaveScroll/static/media/GreatWaveMobile.2faa5012.png"
+    "revision": "91e548c496a57249d55512c12f9f6f9f",
+    "url": "/WaveScroll/static/media/GreatWaveMobile.91e548c4.png"
   },
   {
     "revision": "1ce5d9d292ea9a3ccd0a9014b125cace",

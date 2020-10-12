@@ -1,31 +1,31 @@
 {
   "files": {
-    "main.css": "/WaveScroll/static/css/main.8fbafa1f.chunk.css",
-    "main.js": "/WaveScroll/static/js/main.771a8d6a.chunk.js",
-    "main.js.map": "/WaveScroll/static/js/main.771a8d6a.chunk.js.map",
+    "main.css": "/WaveScroll/static/css/main.bd5b785b.chunk.css",
+    "main.js": "/WaveScroll/static/js/main.6e7dcbff.chunk.js",
+    "main.js.map": "/WaveScroll/static/js/main.6e7dcbff.chunk.js.map",
     "runtime-main.js": "/WaveScroll/static/js/runtime-main.497f18b8.js",
     "runtime-main.js.map": "/WaveScroll/static/js/runtime-main.497f18b8.js.map",
     "static/js/2.4fb9dbba.chunk.js": "/WaveScroll/static/js/2.4fb9dbba.chunk.js",
     "static/js/2.4fb9dbba.chunk.js.map": "/WaveScroll/static/js/2.4fb9dbba.chunk.js.map",
     "index.html": "/WaveScroll/index.html",
-    "precache-manifest.f65585819c2f83f2d58052e40ab68c3a.js": "/WaveScroll/precache-manifest.f65585819c2f83f2d58052e40ab68c3a.js",
+    "precache-manifest.5dce37f1b4171e0b09336387a1441716.js": "/WaveScroll/precache-manifest.5dce37f1b4171e0b09336387a1441716.js",
     "service-worker.js": "/WaveScroll/service-worker.js",
-    "static/css/main.8fbafa1f.chunk.css.map": "/WaveScroll/static/css/main.8fbafa1f.chunk.css.map",
+    "static/css/main.bd5b785b.chunk.css.map": "/WaveScroll/static/css/main.bd5b785b.chunk.css.map",
     "static/js/2.4fb9dbba.chunk.js.LICENSE.txt": "/WaveScroll/static/js/2.4fb9dbba.chunk.js.LICENSE.txt",
     "static/media/Documents - Shortcut.lnk": "/WaveScroll/static/media/Documents - Shortcut.3bef329f.lnk",
     "static/media/App.scss": "/WaveScroll/static/media/JapestylePlain.ccb13abd.woff",
     "static/media/GreatWaveLayer0.png": "/WaveScroll/static/media/GreatWaveLayer0.e264fd98.png",
     "static/media/GreatWaveLayer1.png": "/WaveScroll/static/media/GreatWaveLayer1.4d291da8.png",
     "static/media/GreatWaveLayer2.png": "/WaveScroll/static/media/GreatWaveLayer2.24fffb8d.png",
-    "static/media/GreatWaveLayer3.png": "/WaveScroll/static/media/GreatWaveLayer3.c72a5495.png",
+    "static/media/GreatWaveLayer3.png": "/WaveScroll/static/media/GreatWaveLayer3.8acef38b.png",
     "static/media/GreatWaveLayer4.png": "/WaveScroll/static/media/GreatWaveLayer4.18e3f7f9.png",
-    "static/media/GreatWaveMobile.png": "/WaveScroll/static/media/GreatWaveMobile.2faa5012.png",
+    "static/media/GreatWaveMobile.png": "/WaveScroll/static/media/GreatWaveMobile.91e548c4.png",
     "static/media/TestGif.gif": "/WaveScroll/static/media/TestGif.292ce0e1.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.497f18b8.js",
     "static/js/2.4fb9dbba.chunk.js",
-    "static/css/main.8fbafa1f.chunk.css",
-    "static/js/main.771a8d6a.chunk.js"
+    "static/css/main.bd5b785b.chunk.css",
+    "static/js/main.6e7dcbff.chunk.js"
   ]
 }
