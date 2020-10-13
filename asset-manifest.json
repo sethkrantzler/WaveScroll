@@ -1,17 +1,18 @@
 {
   "files": {
     "main.css": "/WaveScroll/static/css/main.31287d5f.chunk.css",
-    "main.js": "/WaveScroll/static/js/main.e1f66591.chunk.js",
-    "main.js.map": "/WaveScroll/static/js/main.e1f66591.chunk.js.map",
+    "main.js": "/WaveScroll/static/js/main.38399af5.chunk.js",
+    "main.js.map": "/WaveScroll/static/js/main.38399af5.chunk.js.map",
     "runtime-main.js": "/WaveScroll/static/js/runtime-main.497f18b8.js",
     "runtime-main.js.map": "/WaveScroll/static/js/runtime-main.497f18b8.js.map",
     "static/js/2.4fb9dbba.chunk.js": "/WaveScroll/static/js/2.4fb9dbba.chunk.js",
     "static/js/2.4fb9dbba.chunk.js.map": "/WaveScroll/static/js/2.4fb9dbba.chunk.js.map",
     "index.html": "/WaveScroll/index.html",
-    "precache-manifest.77cf8ed63689797185f68f425c096f35.js": "/WaveScroll/precache-manifest.77cf8ed63689797185f68f425c096f35.js",
+    "precache-manifest.f46cd6072e9301ec3c766ed446b176f0.js": "/WaveScroll/precache-manifest.f46cd6072e9301ec3c766ed446b176f0.js",
     "service-worker.js": "/WaveScroll/service-worker.js",
     "static/css/main.31287d5f.chunk.css.map": "/WaveScroll/static/css/main.31287d5f.chunk.css.map",
     "static/js/2.4fb9dbba.chunk.js.LICENSE.txt": "/WaveScroll/static/js/2.4fb9dbba.chunk.js.LICENSE.txt",
+    "static/media/BubAdv.gif": "/WaveScroll/static/media/BubAdv.6dc2a0c0.gif",
     "static/media/Documents - Shortcut.lnk": "/WaveScroll/static/media/Documents - Shortcut.3bef329f.lnk",
     "static/media/App.scss": "/WaveScroll/static/media/JapestylePlain.ccb13abd.woff",
     "static/media/GreatWaveLayer0.png": "/WaveScroll/static/media/GreatWaveLayer0.59726a0c.png",
@@ -21,12 +22,13 @@
     "static/media/GreatWaveLayer4.png": "/WaveScroll/static/media/GreatWaveLayer4.18e3f7f9.png",
     "static/media/GreatWaveMobile.png": "/WaveScroll/static/media/GreatWaveMobile.be3463ea.png",
     "static/media/GreatWaveNegative.png": "/WaveScroll/static/media/GreatWaveNegative.b36e6191.png",
+    "static/media/NewtonOpt.gif": "/WaveScroll/static/media/NewtonOpt.a57bc379.gif",
     "static/media/TestGif.gif": "/WaveScroll/static/media/TestGif.292ce0e1.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.497f18b8.js",
     "static/js/2.4fb9dbba.chunk.js",
     "static/css/main.31287d5f.chunk.css",
-    "static/js/main.e1f66591.chunk.js"
+    "static/js/main.38399af5.chunk.js"
   ]
 }
