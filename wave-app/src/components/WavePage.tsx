@@ -29,10 +29,10 @@ export default class WavePage extends React.Component<any, any> {
                     </div>
                 </div>
                 <div className="content">
-                    <ProjectCard name={ProjectStrings.lilBub.name} description={ProjectStrings.lilBub.description} imgName={'BubAdv.gif'} altText={'Test'} />
-                    <ProjectCard name={ProjectStrings.newtonOpticks.name}   description={ProjectStrings.newtonOpticks.description} imgName={'NewtonOpt.gif'} altText={'Test'} />
-                    <ProjectCard name={ProjectStrings.sethLovesPizza.name}  description={ProjectStrings.sethLovesPizza.description} imgName={'TestGif.gif'} altText={'Test'} />
-                    <ProjectCard name={ProjectStrings.sethLovesToTalk.name} description={ProjectStrings.sethLovesToTalk.description} imgName={'TestGif.gif'} altText={'Test'} />
+                    <ProjectCard name={ProjectStrings.lilBub.name} description={ProjectStrings.lilBub.description} imgName={'BubAdv.gif'} altText={"Lil Bub's Big Adventure"} />
+                    <ProjectCard name={ProjectStrings.sethLovesToTalk.name} description={ProjectStrings.sethLovesToTalk.description} imgName={'SethLovesToTalk.gif'} altText={'Seth Loves to Talk'} />
+                    <ProjectCard name={ProjectStrings.newtonOpticks.name}   description={ProjectStrings.newtonOpticks.description} imgName={'NewtonOpt.gif'} altText={"Newton's Opticks"} />
+                    <ProjectCard name={ProjectStrings.sethLovesPizza.name}  description={ProjectStrings.sethLovesPizza.description} imgName={'SethLovesPizza.gif'} altText={"Seth Loves Pizza"} />
                 </div>
             </div>  
 
