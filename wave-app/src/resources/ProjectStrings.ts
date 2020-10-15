@@ -9,6 +9,10 @@ class Project{
 }
 
 export default class ProjectStrings {
+    public static Welcome = new Project(
+        "Welcome", 
+        "Hello! My name is Seth Krantzler, I'm a programmer, designer, content creator, and musician. Welcome to my tribute to Hokusai's 'The Great Wave'. I wanted to make a website using parallax scrolling, and thought this would be a really cool visual. For the time being, I'm going to use the rest of this page to showcase some of my other projects."
+    );
     public static lilBub = new Project(
         "Lil Bub's Big Adventure", 
         "After graduating from college I took a 3 week trip around Europe. I'm not very into taking pictures of myself, so I took a Lil Bub plush and took pictures of that instead. When I came home I had about 300 photos, so I narrowed it down the best ones, and used turn.js to make a digital photo album, complete with collections and my favorites at the end. I really love how it came together and it's a great way to remember what I saw and who I met along my trip."
