@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1e13022e90d84e981b4d660d4abe7031",
+    "revision": "2b6f52c85450689d4f41ea548f10f603",
     "url": "/WaveScroll/index.html"
   },
   {
-    "revision": "cbeb1ab385a92e96532c",
-    "url": "/WaveScroll/static/css/main.31287d5f.chunk.css"
+    "revision": "444377b04c9a348e26d4",
+    "url": "/WaveScroll/static/css/main.7427a140.chunk.css"
   },
   {
-    "revision": "5e7d49f7d9a62273e013",
-    "url": "/WaveScroll/static/js/2.4fb9dbba.chunk.js"
+    "revision": "93e8d32e714da23b6338",
+    "url": "/WaveScroll/static/js/2.0c93d79b.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/WaveScroll/static/js/2.4fb9dbba.chunk.js.LICENSE.txt"
+    "url": "/WaveScroll/static/js/2.0c93d79b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cbeb1ab385a92e96532c",
-    "url": "/WaveScroll/static/js/main.c0156816.chunk.js"
+    "revision": "444377b04c9a348e26d4",
+    "url": "/WaveScroll/static/js/main.e5a0c5ac.chunk.js"
   },
   {
     "revision": "dd5dc1db1cd78bbd8b06",
