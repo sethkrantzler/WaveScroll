@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7f61ce957707a3fafc9b48867bc08fc3",
+    "revision": "45d035a0d7dd6819a729b814c50f3473",
     "url": "/WaveScroll/index.html"
   },
   {
-    "revision": "6993c4e83ad02fa729f5",
+    "revision": "c11b03ed4abfede0a80d",
     "url": "/WaveScroll/static/css/main.b9ebe445.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/WaveScroll/static/js/2.0c93d79b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6993c4e83ad02fa729f5",
-    "url": "/WaveScroll/static/js/main.e5a0c5ac.chunk.js"
+    "revision": "c11b03ed4abfede0a80d",
+    "url": "/WaveScroll/static/js/main.d2b4b58e.chunk.js"
   },
   {
     "revision": "dd5dc1db1cd78bbd8b06",
@@ -110,6 +110,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "7f102c5817ba344401f04d818997d23d",
     "url": "/WaveScroll/static/media/SethLovesToTalk.7f102c58.gif"
+  },
+  {
+    "revision": "c5531fb33289fdda7cd523f6ad74582d",
+    "url": "/WaveScroll/static/media/Talkulizer.c5531fb3.gif"
   },
   {
     "revision": "292ce0e19c14944b73b30333b861e740",

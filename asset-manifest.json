@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/WaveScroll/static/css/main.b9ebe445.chunk.css",
-    "main.js": "/WaveScroll/static/js/main.e5a0c5ac.chunk.js",
-    "main.js.map": "/WaveScroll/static/js/main.e5a0c5ac.chunk.js.map",
+    "main.js": "/WaveScroll/static/js/main.d2b4b58e.chunk.js",
+    "main.js.map": "/WaveScroll/static/js/main.d2b4b58e.chunk.js.map",
     "runtime-main.js": "/WaveScroll/static/js/runtime-main.497f18b8.js",
     "runtime-main.js.map": "/WaveScroll/static/js/runtime-main.497f18b8.js.map",
     "static/js/2.0c93d79b.chunk.js": "/WaveScroll/static/js/2.0c93d79b.chunk.js",
     "static/js/2.0c93d79b.chunk.js.map": "/WaveScroll/static/js/2.0c93d79b.chunk.js.map",
     "index.html": "/WaveScroll/index.html",
-    "precache-manifest.59cc76be168b2437e02e5f365be08c93.js": "/WaveScroll/precache-manifest.59cc76be168b2437e02e5f365be08c93.js",
+    "precache-manifest.8765a453457ffee51994ee1eaf7b8ab2.js": "/WaveScroll/precache-manifest.8765a453457ffee51994ee1eaf7b8ab2.js",
     "service-worker.js": "/WaveScroll/service-worker.js",
     "static/css/main.b9ebe445.chunk.css.map": "/WaveScroll/static/css/main.b9ebe445.chunk.css.map",
     "static/js/2.0c93d79b.chunk.js.LICENSE.txt": "/WaveScroll/static/js/2.0c93d79b.chunk.js.LICENSE.txt",
@@ -25,12 +25,13 @@
     "static/media/NewtonOpt.gif": "/WaveScroll/static/media/NewtonOpt.a57bc379.gif",
     "static/media/SethLovesPizza.gif": "/WaveScroll/static/media/SethLovesPizza.9274b783.gif",
     "static/media/SethLovesToTalk.gif": "/WaveScroll/static/media/SethLovesToTalk.7f102c58.gif",
+    "static/media/Talkulizer.gif": "/WaveScroll/static/media/Talkulizer.c5531fb3.gif",
     "static/media/TestGif.gif": "/WaveScroll/static/media/TestGif.292ce0e1.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.497f18b8.js",
     "static/js/2.0c93d79b.chunk.js",
     "static/css/main.b9ebe445.chunk.css",
-    "static/js/main.e5a0c5ac.chunk.js"
+    "static/js/main.d2b4b58e.chunk.js"
   ]
 }
