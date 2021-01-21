@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "45d035a0d7dd6819a729b814c50f3473",
+    "revision": "66de3caaa93584e1ab2e8b147939326b",
     "url": "/WaveScroll/index.html"
   },
   {
-    "revision": "c11b03ed4abfede0a80d",
-    "url": "/WaveScroll/static/css/main.b9ebe445.chunk.css"
+    "revision": "a9fecf9d800fb3904983",
+    "url": "/WaveScroll/static/css/main.d9ef93b8.chunk.css"
   },
   {
     "revision": "93e8d32e714da23b6338",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/WaveScroll/static/js/2.0c93d79b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c11b03ed4abfede0a80d",
-    "url": "/WaveScroll/static/js/main.d2b4b58e.chunk.js"
+    "revision": "a9fecf9d800fb3904983",
+    "url": "/WaveScroll/static/js/main.19cfb485.chunk.js"
   },
   {
     "revision": "dd5dc1db1cd78bbd8b06",
