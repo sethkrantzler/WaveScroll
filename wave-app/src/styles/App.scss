@@ -128,6 +128,11 @@ body, html {
         color: #f5eedb;
     }
 
+    a {
+        font-size: 2vw;
+        color:#9bb8b6;
+    }
+
     @media only screen and (max-width: 1080px) {
         p {
             font-size: 3.5vw;
@@ -142,7 +147,11 @@ body, html {
     }
 
     .descriptionHolder{
-        text-align: left; 
+        text-align: justify; 
+    }
+
+    .linkHolder{
+        text-align: center; 
     }
 
 }

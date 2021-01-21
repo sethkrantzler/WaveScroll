@@ -35,10 +35,10 @@ export default class WavePage extends React.Component<any, any> {
                             <p>{ProjectStrings.Welcome.description}</p>
                         </div>
                     </div>
-                    <ProjectCard name={ProjectStrings.Talkulizer.name} description={ProjectStrings.Talkulizer.description} imgName={'Talkulizer.gif'} altText={"Talkulizer"} />
-                    <ProjectCard name={ProjectStrings.lilBub.name} description={ProjectStrings.lilBub.description} imgName={'BubAdv.gif'} altText={"Lil Bub's Big Adventure"} />
-                    <ProjectCard name={ProjectStrings.sethLovesToTalk.name} description={ProjectStrings.sethLovesToTalk.description} imgName={'SethLovesToTalk.gif'} altText={'Seth Loves to Talk'} />
-                    <ProjectCard name={ProjectStrings.newtonOpticks.name}   description={ProjectStrings.newtonOpticks.description} imgName={'NewtonOpt.gif'} altText={"Newton's Opticks"} />
+                    <ProjectCard name={ProjectStrings.Talkulizer.name} description={ProjectStrings.Talkulizer.description} imgName={'Talkulizer.gif'} altText={"Talkulizer"} linkPath={"https://sethkrantzler.github.io/Talkulizer/"} linkText={"Click here to make your voice look cool" }/>
+                    <ProjectCard name={ProjectStrings.lilBub.name} description={ProjectStrings.lilBub.description} imgName={'BubAdv.gif'} altText={"Lil Bub's Big Adventure"} linkPath={"https://sethkrantzler.github.io/bubAdventure/"} linkText={"Click here to see Europe from the eyes of a small stuffed cat"}/>
+                    <ProjectCard name={ProjectStrings.sethLovesToTalk.name} description={ProjectStrings.sethLovesToTalk.description} imgName={'SethLovesToTalk.gif'} altText={'Seth Loves to Talk'} linkPath={"sethlovestotalk.com"} linkText={"Click here to see my videos"}/>
+                    <ProjectCard name={ProjectStrings.newtonOpticks.name}   description={ProjectStrings.newtonOpticks.description} imgName={'NewtonOpt.gif'} altText={"Newton's Opticks"} linkPath={"https://sethkrantzler.github.io/newtonsOpticks/"} linkText={"Click here to see my project"}/>
                     <ProjectCard name={ProjectStrings.sethLovesPizza.name}  description={ProjectStrings.sethLovesPizza.description} imgName={'SethLovesPizza.gif'} altText={"Seth Loves Pizza"} />
                 </div>
                 <div className="endImage">

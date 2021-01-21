@@ -6,12 +6,11 @@ export interface IProjectCardProps {
     description: string;
     imgName: string;
     altText: string;
+    linkPath?: string;
+    linkText?: string
   }
 
 export default class ProjectCard extends React.Component<any, IProjectCardProps> {
-    constructor(props:any) {
-        super(props);
-    }
 
     render () {
 
@@ -23,6 +22,7 @@ export default class ProjectCard extends React.Component<any, IProjectCardProps>
                 </div>
                 <div className="descriptionHolder">
                     <p>{this.props.description}</p>
+                    {this.props.linkPath && <div className="linkHolder"><a href={this.props.linkPath}>{this.props.linkText}</a></div>}
                 </div>
             </div>  
 
