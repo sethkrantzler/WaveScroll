@@ -35,6 +35,7 @@ export default class WavePage extends React.Component<any, any> {
                             <p>{ProjectStrings.Welcome.description}</p>
                         </div>
                     </div>
+                    <ProjectCard name={ProjectStrings.Talkulizer.name} description={ProjectStrings.Talkulizer.description} imgName={'Talkulizer.gif'} altText={"Talkulizer"} />
                     <ProjectCard name={ProjectStrings.lilBub.name} description={ProjectStrings.lilBub.description} imgName={'BubAdv.gif'} altText={"Lil Bub's Big Adventure"} />
                     <ProjectCard name={ProjectStrings.sethLovesToTalk.name} description={ProjectStrings.sethLovesToTalk.description} imgName={'SethLovesToTalk.gif'} altText={'Seth Loves to Talk'} />
                     <ProjectCard name={ProjectStrings.newtonOpticks.name}   description={ProjectStrings.newtonOpticks.description} imgName={'NewtonOpt.gif'} altText={"Newton's Opticks"} />
